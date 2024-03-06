@@ -6,8 +6,7 @@
 
 <picture> <img align="right" src="https://github.com/BisratJ/BisratJ/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
 
-<br><br>
-
+<br>
 - :school: I am a `Fresh Grad` at Computer Science at Unity University.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
