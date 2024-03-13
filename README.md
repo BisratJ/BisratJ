@@ -9,7 +9,7 @@
 <br><be>
 - :school: I am a `Fresh Grad` in Computer Science at Unity University.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
+- :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`.
 - :student: I’m currently learning `Software Engineering` at ALX Africa.
 - :nerd_face: Always `learning new things`.
 
